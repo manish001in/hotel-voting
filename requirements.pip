@@ -1,0 +1,16 @@
+anyjson==0.3.3
+Django==1.8.4
+django-admin-bootstrapped==2.5.4
+django-migration-fixture==0.5.1
+django-push-notifications==1.3.1
+django-rest-swagger==0.3.4
+django-sendmail-backend==0.1.2
+djangorestframework==3.2.2
+geopy==1.11.0
+mysqlclient==1.3.6
+pytz==2015.6
+PyYAML==3.11
+requests==2.8.1
+six==1.10.0
+sqlparse==0.1.16
+wheel==0.24.0
